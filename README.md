@@ -3,24 +3,6 @@
 ## Introduction
 Welcome to the **Foundations of Modern Machine Learning** course repository! This course is designed for second or third-year undergraduate engineering students pursuing a B.Tech in India. Developed by IIIT Hyderabad’s Technology Innovation Hub, iHub-Data, this 50-week foundational program provides a comprehensive introduction to machine learning, covering essential topics like image processing, computer vision, robotics, NLP, pattern recognition, and speech processing.
 
-## Course Overview
-The course aims to build a strong foundation in machine learning with a balanced focus on theory and practice. It offers:
-- **50-week certificate program**: A structured curriculum with live online lectures and hands-on sessions.
-- **40+ projects and assignments**: Independent projects, quizzes, and assignments to reinforce learning.
-- **Personalized learning experience**: Interaction with IIIT-H faculty, mentors, and industry experts.
-- **Comprehensive curriculum**: From basic ML concepts to deep learning architectures.
-
-## Who Can Participate?
-- Students enrolled in a 4-year undergraduate engineering/technology program in AICTE-recognized institutions or reputed technical institutions in India.
-- Students in their second or third year of study.
-- Enthusiasts with a passion for Machine Learning, programming in Python, and exploring applications of Linear Algebra, Probability, and Statistics.
-
-## Unique Features
-- **Live and interactive sessions** with IIIT-H faculty and experienced mentors.
-- **Access to online labs** from the start of the program.
-- **Weekly commitment** of at least 2 hours for live sessions, learning, and assignments.
-- **Evaluation** through quizzes, assignments, discussions, and attendance.
-
 ## Curriculum Highlights
 1. **Introduction to ML**
 2. **Machine Learning Components: Data, Model, Evaluation**
@@ -33,18 +15,72 @@ The course aims to build a strong foundation in machine learning with a balanced
 9. **Clustering**
 10. **Feature Selection and PCA**
 11. **Deep Learning Architectures**
-...and more.
 
-## Certificate and Evaluation
-- A **certificate of competency** with grades will be awarded upon successful completion.
-- Continuous evaluation through quizzes, assignments, and participation.
+---------------------------------------------------------------
 
-## FAQs
-- **Certificate**: Issued by IIIT Hyderabad.
-- **Language**: English.
-- **Attendance**: Minimum 75% required.
-- **Deferral Policy**: Not available.
-- **Technical Requirements**: A laptop/desktop and stable internet connection.
+## Module 1 Lab 1 
+**Colab Note Book** : https://colab.research.google.com/drive/1jWBTbTMaEhE91kbfPsa2v1c_hFGtT2I7?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_M1L1.ipynb
+
+---------------------------------------------------------------
+
+## Module 1 Lab 2
+**Colab Note Book** : https://colab.research.google.com/github/Satyanarayana53/FMML_Projects_and_labs/blob/main/FMML_M1L2.ipynb
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_M1L2.ipynb
+
+---------------------------------------------------------------
+
+## Module 1 Lab 3
+**Colab Note Book** :  https://colab.research.google.com/github/Satyanarayana53/FMML_Projects_and_labs/blob/main/FMML_M1L3.ipynb
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_M1L3.ipynb
+
+---------------------------------------------------------------
+
+## Module 1 Lab 4
+**Colab Note Book** : https://colab.research.google.com/drive/1UXf8X5MH9EY96zlpaw_yc-VJ6xT4OKTe?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_M1L4.ipynb
+
+---------------------------------------------------------------
+
+## Module 2 Lab 1
+**Colab Note Book** : https://colab.research.google.com/drive/1lPCJ9ewAjq7uH-jTOrnswti0z7KHmI5n?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab_1.ipynb
+
+---------------------------------------------------------------
+
+## Module 2 Lab 2
+**Colab Note Book** : https://colab.research.google.com/github/Satyanarayana53/FMML_Projects_and_labs/blob/main/FMML_M2Lab2.ipynb/github/Satyanarayana53/FMML_Projects_and_labs/blob/main/FMML_M1L3.ipynb
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab2.ipynb
+
+---------------------------------------------------------------
+
+## Module 2 Project 
+**Colab Note Book** : https://colab.research.google.com/drive/1vshk72gFRTjH9SGJiIS0tSfH6tcFprzs?usp=sharing
+**Datafile needed for Project 2** : https://drive.google.com/drive/folders/1YIdR9lCZIAVrBU7d_BZ8s7T7OZMLDuUl
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_Module_2_project_2024.ipynb
+
+---------------------------------------------------------------
+
+## Module 2 Lab 3
+**Colab Note Book** : https://colab.research.google.com/drive/12IquZq4qGvZ4kcL4NrhndEYJQ5tIsEL6?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab3.ipynb
+
+---------------------------------------------------------------
+
+## Module 2 Lab 4
+**Colab Note Book** :
+
+**🔗 GitHub**
+
+---------------------------------------------------------------
 
 ## Contact Information
 For any queries or issues with registration, please reach out to the course coordinator at: [fmml.coordinator@ihub-data.iiit.ac.in](mailto:fmml.coordinator@ihub-data.iiit.ac.in).
