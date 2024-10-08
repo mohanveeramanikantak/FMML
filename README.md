@@ -77,9 +77,9 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 ---------------------------------------------------------------
 
 ## Module 2 Lab 4
-**Colab Note Book** :
+**Colab Note Book** : https://colab.research.google.com/drive/10Q9YdolE8VQ339o7FSwSrp9EypfnyQ_Y?usp=sharing
 
-**🔗 GitHub**
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab4.ipynb
 
 ---------------------------------------------------------------
 
