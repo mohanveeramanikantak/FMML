@@ -82,7 +82,36 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab4.ipynb
 
 ---------------------------------------------------------------
+## Module 3 Lab 1
+**Colab Note Book** : https://colab.research.google.com/drive/1chzdlbcK2R5pMX83G8tDs61hYIH6izSO?usp=sharing
 
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Mod3_lab1.ipynb
+
+---------------------------------------------------------------
+## Module 3 Project
+**Colab Note Book** : https://colab.research.google.com/drive/1jTyFGbq7T48NMXBWlYk7x2ESZwGbut0p?usp=sharing#scrollTo=ubC-Y1eGIfkG
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Mod3_project.ipynb
+
+---------------------------------------------------------------
+## Module 3 Lab 2
+**Colab Note Book** : https://colab.research.google.com/drive/1WgCDKvdRtdSluLzsMWcGXnV-Si15XYM3?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Mod3_lab2.ipynb
+
+---------------------------------------------------------------
+## Module 3 Lab 3
+**Colab Note Book** :
+
+**🔗 GitHub** : 
+
+---------------------------------------------------------------
+## Module 3 Lab 4
+**Colab Note Book** : 
+
+**🔗 GitHub** :
+
+---------------------------------------------------------------
 ## Contact Information
 For any queries or issues with registration, please reach out to the course coordinator at: [fmml.coordinator@ihub-data.iiit.ac.in](mailto:fmml.coordinator@ihub-data.iiit.ac.in).
 
