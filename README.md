@@ -60,7 +60,7 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 
 ---------------------------------------------------------------
 
-## Module 2 Project 
+## Module 2 Project 1
 **Colab Note Book** : https://colab.research.google.com/drive/1vshk72gFRTjH9SGJiIS0tSfH6tcFprzs?usp=sharing
 
 **Datafile needed for Project 2** : https://drive.google.com/drive/folders/1YIdR9lCZIAVrBU7d_BZ8s7T7OZMLDuUl
@@ -88,7 +88,7 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Mod3_lab1.ipynb
 
 ---------------------------------------------------------------
-## Module 3 Project
+## Module 3 Project 1
 **Colab Note Book** : https://colab.research.google.com/drive/1jTyFGbq7T48NMXBWlYk7x2ESZwGbut0p?usp=sharing#scrollTo=ubC-Y1eGIfkG
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Mod3_project.ipynb
