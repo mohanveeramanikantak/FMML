@@ -101,7 +101,8 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 
 ---------------------------------------------------------------
 ## Module 3 Lab 3
-**Colab Note Book** :
+**Colab Note Book** :  https://colab.research.google.com/drive/1l0Jt8kTd_69ToJdUfDzRMXuHn-uUrqih#scrollTo=c1GZgvXCsKX1
+
 
 **🔗 GitHub** : 
 
