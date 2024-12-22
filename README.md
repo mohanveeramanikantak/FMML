@@ -104,15 +104,55 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **Colab Note Book** :  https://colab.research.google.com/drive/1l0Jt8kTd_69ToJdUfDzRMXuHn-uUrqih#scrollTo=c1GZgvXCsKX1
 
 
-**🔗 GitHub** : 
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Lab_3.ipynb
 
 ---------------------------------------------------------------
 ## Module 3 Lab 4
-**Colab Note Book** : 
+**Colab Note Book** : https://colab.research.google.com/drive/1Sm2WdyObvC16jOCQ-MNO6fQlUtz-2fut?usp=sharing
 
-**🔗 GitHub** :
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/mod3_lab4.ipynb
 
 ---------------------------------------------------------------
+## Module 4 Lab 1
+**Colab Note Book** : https://colab.research.google.com/drive/1CLMPDUcZngXthJb_RdniE_GIavH8c18d?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_Module4_Lab1_June2024.ipynb
+
+---------------------------------------------------------------
+## Module 4 Lab 2
+**Colab Note Book** : https://colab.research.google.com/drive/1PiOOYYqqWjHfWZF0R3l0W2PqI4HbKFc6?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_Module4_Lab2_June2024.ipynb
+
+---------------------------------------------------------------
+## Module 4 Lab 3
+**Colab Note Book** : https://colab.research.google.com/drive/16OtIxmqTaYCBRzw6m9-AXPahbf81Rvuk?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_Module4_Lab3_June2024.ipynb
+
+---------------------------------------------------------------
+## Module 4 Lab 4
+**Colab Note Book** : https://colab.research.google.com/drive/1JERA6cYc2PMEBASDCW0whXr8wIT4eeFz?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_Module4_Lab4_June2024.ipynb
+
+---------------------------------------------------------------
+## Module 4 Project 2
+**Colab Note Book** : 
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_2024_Module_04_Project.ipynb
+---------------------------------------------------------------
+## Module 5 Lab 1
+**Colab Note Book** : 
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 5 Lab 2
+**Colab Note Book** : https://colab.research.google.com/drive/1CjLWUK0gVXZMxMP66ja2Imu_VSVkH3s0
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_2024_Module_04_Project.ipynb
+---------------------------------------------------------------
+
 ## Contact Information
 For any queries or issues with registration, please reach out to the course coordinator at: [fmml.coordinator@ihub-data.iiit.ac.in](mailto:fmml.coordinator@ihub-data.iiit.ac.in).
 
