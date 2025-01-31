@@ -185,12 +185,17 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 ## Module 6 Lab 4
 **Colab Note Book** : 
 
-**🔗 GitHub** : 
+**🔗 GitHub** :
 ---------------------------------------------------------------
 ## Module 6 Project_1
 **Colab Note Book** : https://colab.research.google.com/drive/1Y4SmlQBwXiib9B2Bo_-MlHhPD7MlzCp3?usp=sharing
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_6%20Project_1.ipynb
+---------------------------------------------------------------
+## Module 7 Lab 1
+**Colab Note Book** :  https://colab.research.google.com/drive/1ujorM6GPBbrlbCOuMAKVmb_-chYWRz5m#scrollTo=XWsDgHdl5dOG
+
+**🔗 GitHub** :
 ---------------------------------------------------------------
 
 ## Contact Information
