@@ -201,7 +201,7 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **Colab Note Book** :  https://colab.research.google.com/drive/1ANRg2C16qyePc_D67s6LCsK42gUzb4kz?usp=sharing
 
 **🔗 GitHub** : 
-
+---------------------------------------------------------------
 ## Contact Information
 For any queries or issues with registration, please reach out to the course coordinator at: [fmml.coordinator@ihub-data.iiit.ac.in](mailto:fmml.coordinator@ihub-data.iiit.ac.in).
 
