@@ -1,5 +1,5 @@
 # Foundations of Modern Machine Learning – 2024
-
+ 
 ## Introduction
 Welcome to the **Foundations of Modern Machine Learning** course repository! This course is designed for second or third-year undergraduate engineering students pursuing a B.Tech in India. Developed by IIIT Hyderabad’s Technology Innovation Hub, iHub-Data, this 50-week foundational program provides a comprehensive introduction to machine learning, covering essential topics like image processing, computer vision, robotics, NLP, pattern recognition, and speech processing.
 
