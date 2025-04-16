@@ -12,7 +12,7 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 6. **SVM**
 7. **Perceptrons and Gradient Descent**
 8. **Regression**
-9. **Clustering**
+9. **Clustering** 
 10. **Feature Selection and PCA**
 11. **Deep Learning Architectures**
     
