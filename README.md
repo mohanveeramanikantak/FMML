@@ -14,8 +14,8 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 8. **Regression**
 9. **Clustering**
 10. **Feature Selection and PCA**
-11. **Deep Learning Architectures** 
-
+11. **Deep Learning Architectures**
+    
 ---------------------------------------------------------------
 
 ## Module 1 Lab 1 
