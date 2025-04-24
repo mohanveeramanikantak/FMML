@@ -141,131 +141,157 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **Colab Note Book** : 
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_2024_Module_04_Project.ipynb
+
 ---------------------------------------------------------------
 ## Module 5 Lab 1
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 5 Lab 2
 **Colab Note Book** : https://colab.research.google.com/drive/1CjLWUK0gVXZMxMP66ja2Imu_VSVkH3s0
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/FMML_2024_Module_04_Project.ipynb
+
 ---------------------------------------------------------------
 ## Module 5 Lab 3
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 5 Lab 4
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 5 Project 
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 6 Lab 1
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 6 Lab 2
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 6 Lab 3
 **Colab Note Book** : https://colab.research.google.com/drive/1UoXSTDhCTA1yNQBUrLS4-QGeXmPauW3v?usp=sharing
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_6%20Lab_3.ipynb
+
 ---------------------------------------------------------------
 ## Module 6 Lab 4
 **Colab Note Book** : 
 
 **🔗 GitHub** :
+
 ---------------------------------------------------------------
 ## Module 6 Project_1
 **Colab Note Book** : https://colab.research.google.com/drive/1Y4SmlQBwXiib9B2Bo_-MlHhPD7MlzCp3?usp=sharing
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_6%20Project_1.ipynb
+
 ---------------------------------------------------------------
 ## Module 7 Lab 1
 **Colab Note Book** :  https://colab.research.google.com/drive/1ujorM6GPBbrlbCOuMAKVmb_-chYWRz5m#scrollTo=XWsDgHdl5dOG
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 7 Lab 2
 **Colab Note Book** :  https://colab.research.google.com/drive/1ANRg2C16qyePc_D67s6LCsK42gUzb4kz?usp=sharing
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 7 Project_1
 **Colab Note Book** : https://colab.research.google.com/drive/1FfAq2h9aoBks01Z2iwNsRLG8cdyMxU0G#scrollTo=Eh_wLcmh4nFi
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 7 Lab 3
 **Colab Note Book** :
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 7 Lab 4
 **Colab Note Book** :
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 8 Lab 1
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 8 Lab 2
 **Colab Note Book** :
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 8 Lab 3
 **Colab Note Book** :
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 8 Lab 4
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 9 Lab 1
 **Colab Note Book** :
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Lab_1.ipynb
+
 ---------------------------------------------------------------
 ## Module 9 Lab 2
 **Colab Note Book** : 
 
 **🔗 GitHub** : 
+
 ---------------------------------------------------------------
 ## Module 9 Project_A
 **Colab Note Book** : https://colab.research.google.com/drive/1d9hw1GeS6XLX91-ONxINLoeIPI98cyrx?usp=sharing#scrollTo=RXksgX5bax-4
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_A%20Breast%20Cancer%20Prediction%20with%20MLP.ipynb
+
 ---------------------------------------------------------------
 ## Module 9 Project_B
 **Colab Note Book** : https://colab.research.google.com/drive/1bAebfe6YlFK009nt5e_rhUoFAA5QEFjf#scrollTo=LF8nIY5yEw3Z
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_B%20Convolutional%20Neural%20Networks%20Project.ipynb
+
 ---------------------------------------------------------------
 ## Module 9 Lab 3
 **Colab Note Book** : https://colab.research.google.com/drive/1vrpjr7N8WKQCnmgXczPiVkbFmwkyGopt?usp=sharing#scrollTo=a_Q1Fs4voiio
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_3.ipynb
+
 ---------------------------------------------------------------
 ## Module 9 Lab 4
 **Colab Note Book** : https://colab.research.google.com/drive/1ukO3-aWggs4nZRD-ChivcKt_2RAOf684?usp=sharing
 
 **🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Lab_4.ipynb
+
 ---------------------------------------------------------------
 
 ## Contact Information
