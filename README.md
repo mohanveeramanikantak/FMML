@@ -206,7 +206,68 @@ Welcome to the **Foundations of Modern Machine Learning** course repository! Thi
 **Colab Note Book** : https://colab.research.google.com/drive/1FfAq2h9aoBks01Z2iwNsRLG8cdyMxU0G#scrollTo=Eh_wLcmh4nFi
 
 **🔗 GitHub** : 
---------------------------------------------------------------- 
+---------------------------------------------------------------
+## Module 7 Lab 3
+**Colab Note Book** :
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 7 Lab 4
+**Colab Note Book** :
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 8 Lab 1
+**Colab Note Book** : 
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 8 Lab 2
+**Colab Note Book** :
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 8 Lab 3
+**Colab Note Book** :
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 8 Lab 4
+**Colab Note Book** : 
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 9 Lab 1
+**Colab Note Book** :
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Lab_1.ipynb
+---------------------------------------------------------------
+## Module 9 Lab 2
+**Colab Note Book** : 
+
+**🔗 GitHub** : 
+---------------------------------------------------------------
+## Module 9 Project_A
+**Colab Note Book** : https://colab.research.google.com/drive/1d9hw1GeS6XLX91-ONxINLoeIPI98cyrx?usp=sharing#scrollTo=RXksgX5bax-4
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_A%20Breast%20Cancer%20Prediction%20with%20MLP.ipynb
+---------------------------------------------------------------
+## Module 9 Project_B
+**Colab Note Book** : https://colab.research.google.com/drive/1bAebfe6YlFK009nt5e_rhUoFAA5QEFjf#scrollTo=LF8nIY5yEw3Z
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_B%20Convolutional%20Neural%20Networks%20Project.ipynb
+---------------------------------------------------------------
+## Module 9 Lab 3
+**Colab Note Book** : https://colab.research.google.com/drive/1vrpjr7N8WKQCnmgXczPiVkbFmwkyGopt?usp=sharing#scrollTo=a_Q1Fs4voiio
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Project_3.ipynb
+---------------------------------------------------------------
+## Module 9 Lab 4
+**Colab Note Book** : https://colab.research.google.com/drive/1ukO3-aWggs4nZRD-ChivcKt_2RAOf684?usp=sharing
+
+**🔗 GitHub** : https://github.com/mohanveeramanikantak/FMML/blob/main/Module_9%20Lab_4.ipynb
+---------------------------------------------------------------
+
 ## Contact Information
 For any queries or issues with registration, please reach out to the course coordinator at: [fmml.coordinator@ihub-data.iiit.ac.in](mailto:fmml.coordinator@ihub-data.iiit.ac.in).
 
